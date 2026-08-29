@@ -12,27 +12,28 @@ The project follows a complete analytics workflow:
 
 ## 📑 Table of Contents
 
-- 🎯 Project Overview
-- 💼 Business Problem
-- 🎯 Project Objectives
-- 📂 Dataset
-- 🛠️ Tools & Technologies
-- 🔄 Project Workflow
-- 🐍 Python Data Analysis
-- 🧹 Data Cleaning & Preprocessing
-- 🔎 Exploratory Data Analysis
-- 🗄️ PostgreSQL Database Integration
-- 💻 SQL Business Analysis
-- 👥 Customer Segmentation
-- 🏆 Product Analysis
-- 📊 Power BI Dashboard
-- 💡 Key Insights
-- 🎯 Business Recommendations
-- 📁 Project Structure
-- 🚀 How to Run the Project
-- 🧠 Skills Demonstrated
-- 🏁 Project Outcome
-- 👨‍💻 Author
+- [🎯 Project Overview](#-project-overview)
+- [💼 Business Problem](#-business-problem)
+- [🎯 Project Objectives](#-project-objectives)
+- [📂 Dataset](#-dataset)
+- [🛠️ Tools & Technologies](#️-tools--technologies)
+- [🔄 Project Workflow](#-project-workflow)
+- [🐍 Python Data Analysis](#-python-data-analysis)
+- [🧹 Data Cleaning & Preprocessing](#-data-cleaning--preprocessing)
+- [🔎 Exploratory Data Analysis](#-exploratory-data-analysis)
+- [🗄️ PostgreSQL Database Integration](#️-postgresql-database-integration)
+- [💼 Business Problems](#-business-problems)
+- [💻 SQL Business Analysis](#-sql-business-analysis)
+- [👥 Customer Segmentation](#-customer-segmentation)
+- [🏆 Product Analysis](#-product-analysis)
+- [📊 Power BI Dashboard](#-power-bi-dashboard)
+- [💡 Key Insights](#-key-insights)
+- [🎯 Business Recommendations](#-business-recommendations)
+- [📁 Project Structure](#-project-structure)
+- [🚀 How to Run the Project](#-how-to-run-the-project)
+- [🧠 Skills Demonstrated](#-skills-demonstrated)
+- [🏁 Project Outcome](#-project-outcome)
+- [👨‍💻 Author](#-author)
 
 ---
 
@@ -69,18 +70,17 @@ The main objective is to transform raw customer transaction data into meaningful
 
 Retail businesses generate large amounts of customer transaction data, but raw data alone does not provide actionable information.
 
-This project analyzes customer shopping data to answer important business questions:
+This project uses customer shopping data to answer important business questions related to:
 
-- 💰 What is the revenue contribution by gender?
-- 🎟️ Which customers use discounts but still spend above average?
-- ⭐ Which products have the highest average review ratings?
-- 🚚 How does spending differ between Standard and Express shipping?
-- 🔔 Do subscribed customers spend more?
-- 🏷️ Which products have the highest discount usage?
-- 👥 How many customers are New, Returning, or Loyal?
-- 🏆 What are the top 3 products in each category?
-- 🔄 Are repeat buyers more likely to subscribe?
-- 👴 Which age groups contribute the most revenue?
+- 💰 Revenue
+- 👥 Customer behavior
+- 🎟️ Discounts
+- ⭐ Product ratings
+- 🚚 Shipping
+- 🔔 Subscriptions
+- 🔄 Repeat purchases
+- 🏆 Product performance
+- 👴 Age-group revenue
 
 ---
 
@@ -108,7 +108,7 @@ The major objectives of this project are:
 
 # 📂 Dataset
 
-The dataset contains customer shopping and transaction-related information.
+The project uses a customer shopping behavior dataset containing customer, product, purchase, shipping, review, discount, and subscription information.
 
 ## 📋 Key Dataset Columns
 
